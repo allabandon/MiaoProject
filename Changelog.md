@@ -1,3 +1,21 @@
+# Miao Project Version 2.4.10 Update Notes
+- 新增：视频调试信息显示视频帧率
+- 新增：「我的」 - 历史 / 稍后再看 / 收藏，空页面以及请求重试
+- 优化：所有图片请求都走 HTTPS
+- 优化：VLC直播仅播放FLV格式直播源，HLS可能会因为空白帧导致播放器崩溃
+- 修复：弹幕描边错误实现尖角
+- 修复：「我的」 - 子页面，切换帐号时页面没有刷新
+- 修复：推荐 / 热门 / 动态，手动刷新列表时，列表无法恢复初始状态
+
+# Miao Project Version 2.4.9 Update Notes
+- 修复：「推荐 / 热门 / 动态」加载更多时可能发生崩溃
+
+# Miao Project Version 2.4.8 Update Notes
+- 更新：最低支持的系统版本提升至 tvOS 15
+- 优化：HDR / Dolby Vision 信号切换逻辑
+- 优化：「推荐 / 热门 / 动态」页面刷新流畅度
+- 修复：视频播放页面可能会发生的崩溃
+
 # Miao Project Version 2.4.7 Update Notes
 - 新增：视频快速加载模式（小概率因CDN导致视频播放报错）
 - 新增：番剧跳过区域渲染在进度条上
