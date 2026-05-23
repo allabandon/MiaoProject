@@ -1,3 +1,6 @@
+# Miao Project Version 2.4.11 Update Notes
+- 修复：部分用户播放报错
+
 # Miao Project Version 2.4.10 Update Notes
 - 新增：视频调试信息显示视频帧率
 - 新增：「我的」 - 历史 / 稍后再看 / 收藏，空页面以及请求重试
