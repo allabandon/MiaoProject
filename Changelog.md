@@ -1,3 +1,14 @@
+# Miao Project Version 2.5.4 Update Notes
+- 修复：部份用户播放报错-不支持的URL
+
+# Miao Project Version 2.5.3 Update Notes
+- 修复：用户动态页请求报错
+- 修复：UP主详情页请求报错
+
+# Miao Project Version 2.5.2 Update Notes
+- 修复：临时修复视频详情页报错的问题
+- 修复：某些情况下登录状态丢失无法恢复的问题
+
 # Miao Project Version 2.5.1 Update Notes
 - 新增：支持强制替换视频播放 CDN，可选择预设线路或自定义线路
 - 优化：直播播放器的线路、清晰度切换和控制栏显示逻辑；使用遥控器操作或打开选项菜单时，控制栏不再过早隐藏
